@@ -1,0 +1,12 @@
+C:\Users\Márcio\Downloads\1976-master (1)\1976-master\obj\Debug\netcoreapp2.0\ProductCatalog.csprojAssemblyReference.cache
+C:\Users\Márcio\Downloads\1976-master (1)\1976-master\obj\Debug\netcoreapp2.0\ProductCatalog.AssemblyInfoInputs.cache
+C:\Users\Márcio\Downloads\1976-master (1)\1976-master\obj\Debug\netcoreapp2.0\ProductCatalog.AssemblyInfo.cs
+C:\Users\Márcio\Downloads\1976-master (1)\1976-master\obj\Debug\netcoreapp2.0\ProductCatalog.csproj.CoreCompileInputs.cache
+C:\Users\Márcio\Downloads\1976-master (1)\1976-master\bin\Debug\netcoreapp2.0\ProductCatalog.deps.json
+C:\Users\Márcio\Downloads\1976-master (1)\1976-master\bin\Debug\netcoreapp2.0\ProductCatalog.runtimeconfig.json
+C:\Users\Márcio\Downloads\1976-master (1)\1976-master\bin\Debug\netcoreapp2.0\ProductCatalog.runtimeconfig.dev.json
+C:\Users\Márcio\Downloads\1976-master (1)\1976-master\bin\Debug\netcoreapp2.0\ProductCatalog.dll
+C:\Users\Márcio\Downloads\1976-master (1)\1976-master\bin\Debug\netcoreapp2.0\ProductCatalog.pdb
+C:\Users\Márcio\Downloads\1976-master (1)\1976-master\obj\Debug\netcoreapp2.0\ProductCatalog.dll
+C:\Users\Márcio\Downloads\1976-master (1)\1976-master\obj\Debug\netcoreapp2.0\ProductCatalog.pdb
+C:\Users\Márcio\Downloads\1976-master (1)\1976-master\obj\Debug\netcoreapp2.0\ProductCatalog.genruntimeconfig.cache
